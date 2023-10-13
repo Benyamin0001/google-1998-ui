@@ -1,0 +1,60 @@
+body {
+    align-content: center;
+    text-align: center;
+}
+
+.container {
+    size: 800px;
+    background-color: aqua;
+    /* font-size: 64px; */
+    float: left;
+    
+}
+
+.box {
+    background-color: aqua;
+    margin: 0 6px;
+    padding: 8px;
+    width: 300px;
+    height: 90px;
+    float: left;
+}
+
+.card-1 {
+    width: 38%;
+    float: left;
+}
+.card-2 {
+    width: 19%;
+    float: left;
+}
+
+.box-color-1 {
+    background-color: rgb(183, 253, 253);
+}
+
+.box-color-2 {
+    background-color: rgb(128, 240, 240);
+}
+
+.box-color-3 {
+    background-color: rgb(122, 216, 216);
+}
+
+p {
+    font-size: 22px;
+    margin: 4px;
+}
+
+.p-special {
+    font-size: 16px;
+    margin: 4px;
+}
+
+.input-box-size {
+    width: 400px;
+}
+
+.footer-property {
+    margin: 10px;
+}
